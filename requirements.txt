@@ -1,2 +1,2 @@
 pybluez
--e git+git@github.com:darnes/pythinkgear.git@a1cb4014abc4f6653c42b4929281574659fda038#egg=thinkgear-dev
+https://github.com/darnes/pythinkgear/releases/download/v0.3/thinkgear-0.3.tar.gz
