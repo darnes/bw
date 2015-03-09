@@ -1,0 +1,8 @@
+python headers:
+$ sudo apt-get install python-dev
+
+getting bluetooth/bluetooth.h:
+$ sudo apt-get install libbluetooth-dev
+
+to run gui demo, install tkinter:
+$ sudo apt-get install python python-tk idle python-pmw python-imaging

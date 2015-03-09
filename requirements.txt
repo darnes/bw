@@ -1,0 +1,2 @@
+pybluez
+-e git+git@github.com:darnes/pythinkgear.git@a1cb4014abc4f6653c42b4929281574659fda038#egg=thinkgear-dev
